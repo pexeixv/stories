@@ -100,22 +100,22 @@
     ]
   },
   {
-    "id": "2",
+    "id": "6",
     "username": "cat",
     "avatar": "/images/cat.jpg",
     "stories": [
       {
-        "id": "2-1",
+        "id": "6-1",
         "image": "/images/cat-1.jpg",
         "timestamp": "6h"
       },
       {
-        "id": "2-2",
+        "id": "6-2",
         "image": "/images/cat-2.jpg",
         "timestamp": "8h"
       },
       {
-        "id": "2-3",
+        "id": "6-3",
         "image": "/images/cat-3.jpg",
         "timestamp": "12h"
       }
